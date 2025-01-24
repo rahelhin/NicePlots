@@ -1,0 +1,8 @@
+Package: NicePlots
+Type: Package
+Title: Creates nice plots with ggplot2
+Version: 0.1.0
+Author: Rahel Hintermann <rahel.hintermann@gmx.ch>
+Description: This package contains functions to create plots.
+Encoding: UTF-8
+LazyData: true
